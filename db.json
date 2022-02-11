@@ -3,8 +3,6 @@
         "id": 1,
         "nombre": "Programación básica - JAVA",
         "descripcion": "Introducción a la programación en el lenguaje JAVA",
-        "precio": 13.39,
-        "impuesto": 1.61,
-        "urlImagen": "empty"
+        "precio": 13.39
     }
 ]
